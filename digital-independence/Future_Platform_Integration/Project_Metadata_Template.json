@@ -1,0 +1,10 @@
+{
+  "project_id": "portfolio_website",
+  "name": "Portfolio Website",
+  "type": "coding",
+  "folder_path": "Course_16_Build_Your_Professional_Identity/Lesson_03_Portfolio_Website/Projects/Portfolio_Website/",
+  "readme_ref": ".../Portfolio_Website/README.md",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "starter_path": ".../Portfolio_Website/starter/",
+  "completed_reference_path": ".../Portfolio_Website/completed/"
+}

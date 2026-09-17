@@ -1,0 +1,21 @@
+{
+  "course_id": "course_16",
+  "course_title": "Build Your Professional Identity",
+  "lesson_id": "c16_l03",
+  "order": 3,
+  "title": "Build Your Portfolio Website",
+  "duration_min": 90,
+  "prerequisites": ["c16_l02"],
+  "objectives": [
+    "Build a working, responsive multi-section portfolio site locally"
+  ],
+  "deliverables": ["local portfolio site skeleton"],
+  "skills": ["semantic HTML", "responsive CSS", "information architecture"],
+  "resource_refs": {
+    "instructor_guide": "Course_16.../Lesson_03_Portfolio_Website/Instructor_Guide.pdf",
+    "student_lesson": "Course_16.../Lesson_03_Portfolio_Website/Student_Lesson.pdf",
+    "worksheet": "Course_16.../Lesson_03_Portfolio_Website/Worksheet.pdf",
+    "project": "Course_16.../Lesson_03_Portfolio_Website/Projects/Portfolio_Website/"
+  },
+  "rubric_ref": "Shared_Resources/Rubrics/Course_16_Final_Portfolio_Rubric.md"
+}
